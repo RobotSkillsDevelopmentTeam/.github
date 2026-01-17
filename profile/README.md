@@ -1,5 +1,15 @@
-## Hi there 👋
-Welcome to RSDT
+
+<p align="center">Welcome to R.S.D.T</p>
+
+
+<p align="center">
+	<img src="./background1.jpg" width="50%" alt="background1" />
+</p>
+
+
+
+
+
 
 <!--
 
